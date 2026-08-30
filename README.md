@@ -24,7 +24,7 @@ A desktop-based steganography application designed to embed and extract secret m
 - **Algorithms:**
   - Fisher-Yates Shuffle Algorithm
   - MS-Tent Map
-- **Document Processing Libraries: PyPDF2
+- **Document Processing Libraries: PyPDF2 / pypdf
 
 ---
 
