@@ -19,12 +19,12 @@ A desktop-based steganography application designed to embed and extract secret m
 
 ## 🛠️ Tech Stack & Algorithms
 
-- **Programming Language:** Python *
+- **Programming Language: Python 
 - **GUI Framework: Tkinter
 - **Algorithms:**
   - Fisher-Yates Shuffle Algorithm
-  - Modified System Tent Map (MS-Tent Map)
-- **Document Processing Libraries:** PyPDF2 / pdfplumber / python-docx *(Adjust based on your project)*
+  - MS-Tent Map
+- **Document Processing Libraries: PyPDF2
 
 ---
 
@@ -32,5 +32,5 @@ A desktop-based steganography application designed to embed and extract secret m
 
 1. **Clone the Repository**
    ```bash
-    git clone [https://github.com/NaharadamRamadhani/pdf-docx-steganography-chaos.git](https://github.com/NaharadamRamadhani/pdf-docx-steganography-chaos.git)
+   git clone [https://github.com/NaharadamRamadhani/pdf-docx-steganography-chaos.git](https://github.com/NaharadamRamadhani/pdf-docx-steganography-chaos.git)
    cd pdf-docx-steganography-chaos
