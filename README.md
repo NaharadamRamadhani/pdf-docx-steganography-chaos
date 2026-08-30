@@ -19,8 +19,8 @@ A desktop-based steganography application designed to embed and extract secret m
 
 ## 🛠️ Tech Stack & Algorithms
 
-- **Programming Language:** Python / C# / Java *(Adjust based on your project)*
-- **GUI Framework:** PyQt / Tkinter / WPF *(Adjust based on your project)*
+- **Programming Language:** Python *
+- **GUI Framework: Tkinter
 - **Algorithms:**
   - Fisher-Yates Shuffle Algorithm
   - Modified System Tent Map (MS-Tent Map)
